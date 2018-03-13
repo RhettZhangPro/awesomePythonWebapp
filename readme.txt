@@ -9,4 +9,5 @@ Creating a new branch is quick and simple.
 branch management method.
 
 021-2412-7131
-origin Test.
+original Tests.
+conflict test.
